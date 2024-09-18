@@ -45,7 +45,9 @@ Additional features:
 
 ### AES Implementation
 
-![demo (2)](https://via.placeholder.com/800x600.png?text=demo+(2))
+![demo (1)](https://github.com/tripathiraj981/Digital-Signature/blob/main/demo%20(1).png)
+
+![Demo 2](https://github.com/tripathiraj981/Digital-Signature/blob/main/demo%20(2).png)
 
 *Figure 2: Simplified AES encryption process*
 
@@ -68,10 +70,6 @@ The Simplified AES (S-AES) implementation includes:
 5. Verify that the decrypted plaintext matches the original and that the digital signature is verified.
 
 ## Detailed Process Overview
-
-![Data Flow Diagram](https://via.placeholder.com/800x600.png?text=Data+Flow+Diagram)
-
-*Figure 3: Data flow diagram of the secure communication process*
 
 1. **RSA Key Generation**:
    - User enters prime numbers p and q.
