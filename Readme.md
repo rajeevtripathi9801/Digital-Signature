@@ -4,7 +4,7 @@ This project demonstrates a secure connection between a client and server where 
 
 ## Project Overview
 
-![Architecture.png](https://via.placeholder.com/800x400.png?text=demo+(1))
+![Architecture.png](https://github.com/tripathiraj981/Digital-Signature/blob/main/Architecture.png)
 
 *Figure 1: High-level architecture of the Secure Communication Project*
 
