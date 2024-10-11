@@ -23,7 +23,6 @@ import sys
 import websockets
 import threading
 import numpy as np
-import json
 import hashlib
 ```
 
